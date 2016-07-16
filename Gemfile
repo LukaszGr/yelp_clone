@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'aws-sdk'
+
+gem 'paperclip'
+
 gem 'omniauth-facebook'
 
 gem 'devise'
